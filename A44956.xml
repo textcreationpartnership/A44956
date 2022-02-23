@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble address from the people of England to their representatives in Parliament, for an Act against buying and selling of offices.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44956</idno>
+            <idno type="STC">Wing H3376</idno>
+            <idno type="STC">ESTC R213858</idno>
+            <idno type="EEBO-CITATION">99826123</idno>
+            <idno type="PROQUEST">99826123</idno>
+            <idno type="VID">30515</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30515)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1760:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble address from the people of England to their representatives in Parliament, for an Act against buying and selling of offices.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by George Croom at the Blew-Ball in Thames-street near Baynards-Castle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Rules and practices --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="address">
+            <pb facs="tcp:30515:1" rendition="simple:additions"/>
+            <head>AN HUMBLE ADDRESS From the PEOPLE of ENGLAND To their Repreſentatives in PARLIAMENT, For an Act againſt Buying and Selling of Offices.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THE great Truſt and Confidence which we have Repoſed in you, will ſufficiently convince all the World, that we do not preſume to make this Addreſs upon the leaſt diſtruſt of your Prudence and Care over us; which on the contrary, we are ſo ſenſible of, that we deſire to make all due Acknowledgment for the ſame, and in a more particular manner, for the Eſtabliſhment of the Govern<g ref="char:EOLhyphen"/>ment under our moſt <hi>Auſpicious and Gracious Soveraigns King</hi> William <hi>and Queen</hi> Mary, whoſe long and proſperous Reign over us is that great Bleſſing we daily Pray for, as the only means next under the <hi>Divine Providence,</hi> that can make us the moſt Happy and Flouriſhing People in the World.</p>
+            <p>But conſidering the multitude and almoſt infinite Variety of Affairs both Foreign and Domeſtick that lie before you, tis a wonder that you ſhould think of ſo many things as you do; and therefore, leaſt one amongſt ſo many ſhould happen to eſcape your preſent Thoughts, which we conceive to be of more than ordinary Concern to us, We Humbly take the Freedom at this time (which we hope is <hi>Seaſonable</hi>) only to Recall it to your Memory, and (that is) <hi>The Buying and Selling of Offices.</hi>
+            </p>
+            <p>We do not take upon us to ſay there hath been any ſuch thing, but Humbly Sub<g ref="char:EOLhyphen"/>mit to your determination of that Point, as the Grand Inquiſitors and Repreſentatives of the Nation; and ſhall only obſerve the Rational Conſequences thereof, and that in caſe any ſuch thing hath been practiſed in former times, That we may very proba<g ref="char:EOLhyphen"/>bly date all our Miſeries from the Commencement thereof: For ſuppoſe it were poſſible in former Ages, that a Judges Place could not be obtained without a Gene<g ref="char:EOLhyphen"/>rous Acknowledgment of ſo Great a Favour, What can be expected from ſuch a Per<g ref="char:EOLhyphen"/>ſon, who hath perhaps a numerous Family, no Eſtate in the Country, and is forced to borrow a great Sum at Intereſt to lay down upon ſuch an Occaſion? Will not ſuch a Man in all humane probability rather comply with the Times, than ſee his Family utterly Ruin'd by looſing his Place and Mony too? And then as to the Caſes of <hi>Meum &amp; Tuum,</hi> Will not he that thinks it Lawful to <hi>Give</hi> for a judicial Place, think it alſo Lawful to take when he is in it? And doth not our Lives and Fortunes, our All, depend upon their Integrity and Ability? Who would wonder at the Caſe of the Ship<g ref="char:EOLhyphen"/>mony, the Diſpencing Power, Exceſſive Bail, Unlawful Fines, Unuſual Puniſhments, Proſecution of the Biſhops, or the like, in ſuch a Caſe? Either the Judges Acted according to their Judgment in theſe Caſes, or they did not; if they did, we have nothing to ſay to them, but hope our Courts of Juſtice, both in <hi>England</hi> and <hi>Wales,</hi> will now be filled with more Able Men. If any of them did not Act according to their Judgments, then we ſubmit to your Opinions, Whether this might not be the Secret and Original cauſe of their Complyance? And if in this Caſe, Why not in the other proceedings of the Eccleſiaſtical Court againſt that Reverend and Learned Pre<g ref="char:EOLhyphen"/>late, the Biſhop of <hi>London</hi>? The Preſident and Fellows of <hi>Magdalen</hi> Colledge, <hi>&amp;c.</hi> Since no Man can eaſily believe that a certain Biſhop beyond Sea (whoſe Life and Converſation was ſo publickly known to the World) was meerly prefer'd for his Piety and Devotion.</p>
+            <p>And might not the Oppreſſions of the Poor by the Officers of the Chimny mony, Exciſe, <hi>&amp;c.</hi> and all other Abuſes and Extortions from the Common people, be publick<g ref="char:EOLhyphen"/>ly attributed to the ſame Cauſe? In the Caſe of the late Army, if any Officer pur<g ref="char:EOLhyphen"/>chaſed a Commiſſion, What could be expected but that he ſhould make his Soldiers contribute to it? And will not his Soldiers have it out in their Quarters? Nay, Might nor this Firſt introduce Billiting the ſame Soldiers upon ſeveral Houſes at one time, and taking Mony from every Houſe, to the great Oppreſſion of the Subjects? And muſt not the Nation always ſuffer by theſe ways? For a Soldier of Fortune, a Man of Honor and Experience, depends upon his known Courage and Merits, and either hath no Mony to give, or elſe ſcorns to Submit to ſuch Mercinary Terms; and when <hi>Merit</hi> gives place to <hi>Mony,</hi> the Nation muſt be loſt to any Enemy that will Invade us.</p>
+            <p>Thus at length when the grievous Oppreſſions of the Officers become intolerable, and the People have no relief in the ordinary courſe of Juſtice (for when the <hi>Inferior Officers</hi> can Accuſe their <hi>Superiors,</hi> they need not fear any <hi>Accuſation</hi> themſelves) then are they forced in all Humble manner to Petition for a Parliament, And what's the conſequence of this? But Abhorences againſt Petitioning, Advice for <hi>Quo Worrantoes,</hi> Surrenders of Charters, and Regulations of Corporations, the freedom of Elections of Members to ſerve in Parliament are Violated; the Members muſt be Cloſetted, and all Men diſplaced and ruined that refuſe to comply with their Terms; the Judges have Inſtructions in their Charges, to Preach up for Law the Kings Diſpencing Power, and the Country Gentlemen invited by his Neighbours, and proud of his new Authority amongſt them, ſecurely relies upon ſo great an Authority; and ſo by a Chain of neceſſary conſequences, it ſeems to us, that all our Miſeries may be derived from this Secret and Inviſible Grievance of <hi>Buying and Selling of Offices.</hi>
+            </p>
+            <p>Wherefore for avoiding the Effuſion of Chriſtian Blood, the Ruin and Deſtruction of Families, which muſt follow; Firſt by the wicked Practices above mentioned (for Men will be Men to the end of the World) and afterwards in the Capital and other Puniſhment of the Authors of them.</p>
+            <p>Since our Religion teaches us Humility and Mercy, and not ſevere Perſecutions of one another; Since the Fundamental and Original Cauſe of all our late Grievances may ſo much be attributed (as you ſee) to the want of ſuch a Law by our former Re<g ref="char:EOLhyphen"/>preſentatives; and we that have the advantage of their Actions and Laws, muſt be the <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ather perſwaded to bear with the conſeqences of their Omiſſions.</p>
+            <p>Therefore it is that we have thought fit with all due Reverence to acquaint yon, That in regard we owe this happy Deliverence to the Providence of Almighty God, who forgiveth us many Sins, and delighteth not in the Deſtruction of an Offen<g ref="char:EOLhyphen"/>der, but rather in his Repentance; and in regard our Moſt Gracious Soveraign King <hi>William,</hi> the Glorious Inſtrument thereof, hath with ſo much Zeal and Compaſſion recommended to you a moſt general Act of Oblivion.</p>
+            <p>We ſhall like good Chriſtians and good Subjects rather chuſe your <hi>Mercy</hi> than your <hi>Severity</hi>; rather chuſe an Act of <hi>Prevention</hi> for the future, than an Act of <hi>Attainder</hi> for what is paſt; and that you may ſee we do ſo in earneſt, we Humbly Preſent you with an Act for that purpoſe; The Subſtance and Form whereof is with all imagina<g ref="char:EOLhyphen"/>ble Duty and Defence ſubmitted to your great Judgment and Diſcretion.</p>
+            <div type="draft_act">
+               <head>A Draught of an Act againſt the Buying and Selling of Offices.</head>
+               <p>Foraſmuch as it hath been found by Experience in all Ages, that no Government ever proſ<g ref="char:EOLhyphen"/>pered where all Offices are Bought and Sold, but on the contrary, where Perſons have been Prefered for their Merit and Ability, to Serve their King and Country, the Nation hath al<g ref="char:EOLhyphen"/>ways been happy within it ſelf, and ſucceſsful againſt its Enemies.</p>
+               <p>Wherefore for the Incouragement of Induſtry and Vertue, and the Rooting out of Idleneſs and Corruption, for the Honour of God, the Advancement of Juſtice, the Security of the Lives, Riligion, and Property of the Subjects, and for the more effectual Support and Defence of this Kindom in theſe times of War, by able and prudent Officers both at Sea and Land.</p>
+               <p>Be it Enacted by our Soveraign Lord and Lady the King and Queen, by and with the Advice and Conſent of the Lords Spiritual and Temporal and the Commons in Parliament Aſſembled, and by the Authority of the ſame; That all, and every Perſon or Porſons, who ſince the <hi>13th.</hi> day of <hi>Febr.</hi> laſt paſt, have been, or hereafter ſhall be admitted into any Office or Employment, Civil or Military, Judicial or Miniſterial, within this Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> or Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> (except ſuch Offices as are herein after excepted) ſhall take this Oath following, in ſuch Manner, at ſuch Times, before ſuch Perſons, and in ſuch Courts and Places as is appointed for the taking of the New Oaths, by one Act lately made for the Abrogating of the former Oaths of Allegiance and Supremacy, and appointing other Oaths, <hi>Viz.</hi>
+               </p>
+               <p>
+                  <q>I (<hi>A.B.</hi>) do Swear, and ſolemnly Promiſe in the preſence of Almighty God, that I have not given or promiſed to give any Mony, Fee, Reward, or other Profit, Directly or Indirectly, to any Perſon or Perſons whatſoever, for the Office (or Employment) of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> or for the Deputation of the Office (or Em<g ref="char:EOLhyphen"/>ployment) of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> nor for the Intereſt or Recommendation of any Perſon or Perſons whatſoever, in obtaining thereof: And that I do not know, or have in the leaſt conſented that any Friend, Relation, or other Perſon whatſoever, hath, ſhould or ſhall hereafter, give or promiſe any ſuch Reward, Directly or In<g ref="char:EOLhyphen"/>directly to any Perſon or Perſons whatſoever for the ſame. And further, I do Swear that I have not Received, nor Conſented, nor willing<g ref="char:EOLhyphen"/>ly Permitted any other Perſon to Receive, nor will hereafter Receive, nor Con<g ref="char:EOLhyphen"/>ſent or willingly Permit any other Perſon or Perſons whatſoever to Receive, any Mony, Fee, Reward, or other Profit, Directly or Indirectly, for any Office or Employment within my Diſpoſal or Gift nor for my Intereſt or Recommendation to obtain any Place or Employment whatſoever, (except ſuch Offices and Em<g ref="char:EOLhyphen"/>ployments as are excepted in one Act Intitled, <hi>An Act againſt Buying and Selling of Offices,</hi> made in the Firſt Year of the Reign of King <hi>William</hi> and Queen <hi>Mary</hi>) all which I Solemnly Promiſe and Swear according to the plain and common Sence and Underſtanding of the ſame words, without any Equivocation, Mental Evaſion, or Secret Reſervation whatſoever, So help me God; and by the Contents of this Book.</q>
+                  <list>
+                     <item>A Clauſe that all Bargains and Aſſurances be void.</item>
+                     <item>A Clauſe of Penalties and Diſabilities in caſe of Neglect or Refuſal, as in the caſe of the other Oaths.</item>
+                     <item>Another more ſevere Clauſe of Penalties and Diſabilities againſt all thoſe that ſhall be Convicted of a Breach of the ſaid Oath.</item>
+                     <item>A <hi>Proviſo</hi> to except all ſuch Offices and Perſons as are excepted in a Statute made the <hi>5th.</hi> and <hi>6th.</hi> of <hi>Ed.</hi> VI. <hi>Ca.</hi> 16.</item>
+                     <item>A <hi>Proviſo,</hi> that this Act ſhall not extend to the accuſtomed Fees for Warrants, Patents or Commiſſions, &amp;c.</item>
+                  </list>
+               </p>
+               <p>Thus we have Humbly laid before you a haſty and ſhort Scheme of our preſent Thoughts of this Matter for the publick good, which we Humbly Submit to your Correction and Improvement. And ſince there are but two ways left us for our Se<g ref="char:EOLhyphen"/>curity, in this juncture of Affairs, <hi>viz.</hi> The Deſtruction of all Offenders, or elſe a Generous Pardon; for the Middle way of ſetting a Mark or Fine upon them, neither gains Friends nor prevents Enemies; we conceive the latter moſt conſiſtent with the Proteſtant Religion, and being ſeconded by ſuch a Law as is above ſet forth, may more effectually Eſtabliſh our preſent happineſs, and prevent the like Evils for the fu<g ref="char:EOLhyphen"/>ture, than any examples of Severity, or other proceedings whatſoever.</p>
+               <l>Sublate fundamento corruit opus</l>
+               <l>Es coſſante cauſa ceſſat effectus.</l>
+            </div>
+         </div>
+         <div type="license">
+            <p>Licenſed <date>
+                  <hi>May</hi> 27. 1689.</date>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>LONDON <hi>Printed by</hi> George Croom <hi>at the</hi> Blew Hall <hi>in</hi> Thames-ſtreet <hi>near</hi> Baynards-Caſtle.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
